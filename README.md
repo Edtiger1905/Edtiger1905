@@ -1,5 +1,5 @@
 # 💫 About Me:
-->👾 Hi, I'm @Edtiger1905 (Eduardo)<br>->🤝 I'm learning to program to build a future for myself in this field.<br>->🌱 I’m currently a student at 42RomaLuiss
+->👾 Hi, I'm @Edtiger1905 (Eduardo)<br>->🤝 I'm learning to program to build a future for myself in this field.<br>->🌱 I’m currently a student at 42 Roma.
 
 
 ## 🌐 Socials:
